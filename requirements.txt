@@ -29,6 +29,7 @@ cffi==1.14.3
     #   pybluemonday
 chardet==3.0.4
     # via requests
+psycopg2-binary
 click==7.1.2
     # via flask
 cmarkgfm==0.4.2
